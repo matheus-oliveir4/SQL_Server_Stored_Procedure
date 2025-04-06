@@ -34,4 +34,7 @@ Uso de store procedure no cotidiano é de extrema importância, visto que podemo
     	end
     	
     exec Detalhes_pedidos_por_cliente4 '1990-01-01', '1999-12-31', 'Around the Horn'
+
+*Resultado* <br>
+<img src="https://github.com/matheus-oliveir4/SQL_Server_Stored_Procedure/blob/main/imagem_2025-04-06_152427161.png" alt=" Consultas" width = 800px>
     
