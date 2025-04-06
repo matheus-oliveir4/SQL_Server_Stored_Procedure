@@ -1,6 +1,8 @@
 # SQL_Server_Stored_Procedure
 Uso de store procedure no cotidiano é de extrema importância, visto que podemos armazenar as instruções para que possam ser usadas posteriormente.
 
+Realizando a seguinte consulta de forma detalhada, precisarei somente alterar os parametros de entrada para que o retorno dado seja satisfatório, sem a necessidade de reescrever o código.
+
     Create Procedure Detalhes_pedidos_por_cliente
     @dt1 datetime2,
     @dt2 datetime2,
